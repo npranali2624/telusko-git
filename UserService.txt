@@ -5,4 +5,9 @@ create an avtar for user
 
 login and logout
 
+<<<<<<< HEAD
 change 1
+=======
+ change 1
+ change 2 in harsh's database
+>>>>>>> feature3
