@@ -2,3 +2,5 @@ what is happen
 process the data
 
 create an avtar for user
+
+login and logout
